@@ -113,7 +113,6 @@ typedef NS_ENUM(NSInteger, PanViewTag){
                 self.rightSpace.constant = rightSpace;
                 self.bottomSpace.constant = bottomSpace;
                 break;
-                
             default:
                 break;
         }
